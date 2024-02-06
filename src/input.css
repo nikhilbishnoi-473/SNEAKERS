@@ -43,4 +43,8 @@
     border-bottom: 2px solid #FF0000 !important;
     color: #FF0000;
   
-}
+} 
+.webkit:hover {     
+    -webkit-text-stroke: 1px black;
+ 
+ }
